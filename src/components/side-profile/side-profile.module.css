@@ -1,0 +1,76 @@
+.container {
+  background-color: var(--white);
+  height: 80vh;
+  padding: 1rem;
+  border-radius: 6px;
+  box-shadow: 0px 8px 32px rgba(186, 186, 186, 0,08);
+}
+
+.frame {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.avatar {
+  height: 136px;
+  width: 136px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+#name {
+  font-weight: 600;
+  text-align: center;
+  margin-top: 1rem;
+  letter-spacing: 0.5px;
+}
+
+#level {
+  text-align: center;
+  font-size: smaller;
+  color: var(--text-body);
+  letter-spacing: 0.5px;
+}
+
+.sectionTitle {
+  color: var(--text-label);
+  letter-spacing: 0.4px ;
+}
+
+#card {
+  letter-spacing: 0.5px;
+  font-size: smaller;
+  margin-top: 1rem;
+  color: var(--white);
+  background: linear-gradient(75deg, #5F2EEA 31.28%, #7647F9 62.16%);
+  box-shadow: 0px 8px 32px var(--primary);
+  padding: 2rem;
+  border-radius: 16px;
+}
+
+#point {
+  font-weight: 700;
+  margin-right: 10px;
+}
+
+#pointsRemaining {
+  text-align: center;
+  margin-top: 2rem;
+  font-size: smaller;
+}
+
+.progress {
+  margin-top: 1rem;
+}
+
+/* Rectangle 571 */
+/* 
+position: absolute;
+width: 248px;
+height: 125px;
+left: 110px;
+top: 626px;
+box-shadow: 0px 8px 32px #5F2EEA;
+border-radius: 8px; */

@@ -1,0 +1,17 @@
+:root {
+  --white: #fff;
+  --black: #333;
+  --primary: #5f2eea;
+  --primary-darker: #9570fe;
+  --border-and-line: #dedede;
+  --placeholder: #fcfdfe;
+  --text-title: #14142b;
+  --text-body: #4e4b66;
+  --text-label: #6e7191;
+  --input-background: #fcfdfe;
+  --background-color: #d6d8e7;
+  --background-color-alt: #e5e5e5;
+  --error: #ed2e7e;
+  --success: #00b488;
+  --warning: #f4b750;
+}

@@ -1,0 +1,13 @@
+.container {
+  font-family: 'Mulish', sans-serif;
+  padding: 2rem;
+  padding-left: 7rem;
+  padding-right: 7rem;
+  background-color: var(--background-color-alt);
+  height: 88vh;
+}
+
+.sideProfile {
+  padding: 1rem;
+  padding-top: 0px;
+}
